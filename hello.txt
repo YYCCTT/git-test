@@ -7,5 +7,5 @@ hello yangchengtao! hello git!
 hello yangchengtao! hello git!
 hello yangchengtao! hello git!
 hello yangchengtao! hello git! master test
-hello yangchengtao! hello git!
+hello yangchengtao! hello git! hot-fix text
 This is hot-fix!!
